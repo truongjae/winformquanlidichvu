@@ -1,0 +1,14 @@
+E:\hoc Csharp\Quanlidichvu\Quanlidichvu\Quanlidichvu\bin\Debug\Quanlidichvu.exe
+E:\hoc Csharp\Quanlidichvu\Quanlidichvu\Quanlidichvu\bin\Debug\Quanlidichvu.pdb
+E:\hoc Csharp\Quanlidichvu\Quanlidichvu\Quanlidichvu\obj\x86\Debug\Quanlidichvu.Form1.resources
+E:\hoc Csharp\Quanlidichvu\Quanlidichvu\Quanlidichvu\obj\x86\Debug\Quanlidichvu.Form2.resources
+E:\hoc Csharp\Quanlidichvu\Quanlidichvu\Quanlidichvu\obj\x86\Debug\Quanlidichvu.Properties.Resources.resources
+E:\hoc Csharp\Quanlidichvu\Quanlidichvu\Quanlidichvu\obj\x86\Debug\Quanlidichvu.csproj.GenerateResource.Cache
+E:\hoc Csharp\Quanlidichvu\Quanlidichvu\Quanlidichvu\obj\x86\Debug\Quanlidichvu.exe
+E:\hoc Csharp\Quanlidichvu\Quanlidichvu\Quanlidichvu\obj\x86\Debug\Quanlidichvu.pdb
+E:\hoc Csharp\Quanlidichvu\Quanlidichvu\Quanlidichvu\obj\x86\Debug\Quanlidichvu.Form3.resources
+E:\hoc Csharp\Quanlidichvu\Quanlidichvu\Quanlidichvu\obj\x86\Debug\Quanlidichvu.Form4.resources
+E:\hoc Csharp\Quanlidichvu\Quanlidichvu\Quanlidichvu\obj\x86\Debug\Quanlidichvu.csprojResolveAssemblyReference.cache
+E:\hoc Csharp\Quanlidichvu\Quanlidichvu\Quanlidichvu\obj\x86\Debug\Quanlidichvu.Form5.resources
+E:\hoc Csharp\Quanlidichvu\Quanlidichvu\Quanlidichvu\obj\x86\Debug\RdlCompile.cache
+E:\hoc Csharp\Quanlidichvu\Quanlidichvu\Quanlidichvu\obj\x86\Debug\RdlCompile.compiled
